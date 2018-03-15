@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "370963334980",
+    "firebase_url": "https://visiondigital-1519773723031.firebaseio.com",
+    "project_id": "visiondigital-1519773723031",
+    "storage_bucket": "visiondigital-1519773723031.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370963334980:android:d848c4c521ecde3e",
+        "android_client_info": {
+          "package_name": "mx.visiondigital.AppVisionDigital"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370963334980-bnvd3nh24qi6k1pnrchbsvvotjl69ots.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbVZcXLMI9m82q47bvEYKa1OCSvvK8qnY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
