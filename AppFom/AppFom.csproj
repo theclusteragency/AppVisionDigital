@@ -266,10 +266,11 @@
     <EmbeddedResource Include="Images\img_fom_control.png" />
     <EmbeddedResource Include="Images\img_fom_bgmenu.png" />
     <EmbeddedResource Include="Images\img_fom_counter.png" />
-    <EmbeddedResource Include="Images\video_fom.mp4" />
+    <EmbeddedResource Include="Images\video_fom_green.mp4" />
     <EmbeddedResource Include="Images\bg_fom_blelogin_red.png" />
     <EmbeddedResource Include="Images\bg_fom_blelogin_green.png" />
     <EmbeddedResource Include="Images\img_fom_report.png" />
+    <EmbeddedResource Include="Images\video_fom.mp4" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\Portable\$(TargetFrameworkVersion)\Microsoft.Portable.CSharp.targets" />
   <Import Project="..\packages\Xamarin.Forms.2.4.0.18342\build\portable-win+net45+wp80+win81+wpa81\Xamarin.Forms.targets" Condition="Exists('..\packages\Xamarin.Forms.2.4.0.18342\build\portable-win+net45+wp80+win81+wpa81\Xamarin.Forms.targets')" />

@@ -364,6 +364,10 @@
     <AndroidResource Include="Resources\drawable-hdpi\ico_menu_chat.png" />
     <AndroidResource Include="Resources\drawable-xhdpi\ico_menu_chat.png" />
     <AndroidResource Include="Resources\drawable-xxhdpi\ico_menu_chat.png" />
+    <AndroidResource Include="Resources\drawable\icon_vision.png" />
+    <AndroidResource Include="Resources\drawable-hdpi\icon_vision.png" />
+    <AndroidResource Include="Resources\drawable-xhdpi\icon_vision.png" />
+    <AndroidResource Include="Resources\drawable-xxhdpi\icon_vision.png" />
     <AndroidResource Include="Resources\drawable\icon.png" />
     <AndroidResource Include="Resources\drawable-hdpi\icon.png" />
     <AndroidResource Include="Resources\drawable-xhdpi\icon.png" />

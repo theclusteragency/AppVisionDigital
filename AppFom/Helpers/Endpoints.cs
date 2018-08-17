@@ -6,7 +6,9 @@ namespace AppFom.Helpers
 
         //public const string EndPointUri = "https://i0mqxn71n1.execute-api.us-west-2.amazonaws.com/dev/"; // FOM
         //public const string EndPointUri = "https://1e4fm5yxil.execute-api.us-west-2.amazonaws.com/digital/"; // FOM BYProvitec
-        public const string EndPointUri = "https://1e4fm5yxil.execute-api.us-west-2.amazonaws.com/digital"; // Visión Digital
+        //public const string EndPointUri = "https://1e4fm5yxil.execute-api.us-west-2.amazonaws.com/digital"; // Visión Digital
+        public const string EndPointUri = "https://xa3hj1wmm9.execute-api.us-east-1.amazonaws.com/prod";
+
 
 
         //------FOM
